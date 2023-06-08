@@ -1,5 +1,7 @@
 # My Website
 
+theme: minima
+
 ![Wallpaper](pic2.jpg)
 
 | [About](about.md) | [Projects](projects.md) | [Publications](publications.md) | [Misc](misc.md) |
@@ -20,4 +22,5 @@ Some introductory text goes here. Lorem ipsum dolor sit amet, consectetur adipis
 
 ---
 
+Copyright © 2023 My Website
 Copyright © 2023 My Website
