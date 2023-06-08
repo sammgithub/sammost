@@ -1,6 +1,6 @@
 # My Website
 
-![Wallpaper](path/to/wallpaper.jpg)
+![Wallpaper](pic2.jpg)
 
 | [About](about.md) | [Projects](projects.md) | [Publications](publications.md) | [Misc](misc.md) |
 
@@ -10,7 +10,7 @@
 
 Some introductory text goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vel neque a nunc commodo ultrices. Proin accumsan, elit vitae scelerisque suscipit, nisi ipsum auctor mi, id facilisis sem purus non urna.
 
-![Image](path/to/image.jpg)
+![Image](face_sketch.jpg)
 
 ## Latest News
 
